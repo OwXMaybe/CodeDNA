@@ -9,7 +9,7 @@ Suggested repository settings, ready to paste into GitHub:
 - **README cover:** `docs/images/code-dna-cover.svg` (illustrative dashboard mockup; sample numbers are not scan output).
 - **Interface image:** `docs/images/source-inventory-empty.png` (real UI screenshot, empty-state example).
 
-Choose the repository visibility and license with the maintainer before publication. No `LICENSE` file is present yet, so the repository currently grants no reuse rights by default. The local sample archive `codedna-sample-project.zip` is intentionally excluded from Git because it duplicates tracked source files.
+The repository visibility is left unchanged. The project is licensed under MIT; see the root `LICENSE` file. The local sample archive `codedna-sample-project.zip` is intentionally excluded from Git because it duplicates tracked source files.
 
 ## Suggested first release notes
 

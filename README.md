@@ -98,6 +98,7 @@ Project content stays in the browser tab. The loopback-only server at `127.0.0.1
 │       └── source-inventory-empty.png
 ├── index.html                Overview, Anatomy, and DNA Map views
 ├── dna-field-illustration.png Hand-drawn DNA artwork used in the interface
+├── LICENSE                   MIT License
 ├── server.mjs                Loopback-only static file server
 ├── styles.css                Base layout and responsive styles
 ├── design.css                CODE DNA visual system and interactions
@@ -111,4 +112,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for local setup and change guidelines. 
 
 ## License
 
-No license has been selected yet. Until a license is added, the source is not granted for reuse; contact the maintainer before redistributing or incorporating it into another project.
+CODE DNA is released under the [MIT License](./LICENSE). Copyright © 2026 Eren Tyto.
