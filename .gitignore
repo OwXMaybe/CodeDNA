@@ -1,0 +1,22 @@
+# Dependencies and generated output
+node_modules/
+coverage/
+dist/
+build/
+
+# Local archives and temporary exports
+codedna-sample-project.zip
+*.tmp
+*.log
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
